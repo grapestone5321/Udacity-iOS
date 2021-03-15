@@ -21,7 +21,7 @@ Udacity-iOS
 
 ### 9. Objective-C for Swift Developers
 
-
+### 10. Swift for Beginners
 
 -------
 
@@ -126,6 +126,19 @@ In the course, students will write classes and add functionality to classes by w
 After learning some basic Objective-C syntax, students will examine and break down an app written in Objective-C and rewrite it in Swift. 
 
 The course will conclude with a review of and practice with the most common challenges for interoperability between Objective-C and Swift.
+
+-------
+
+
+### 10. Swift for Beginners
+Your First Programming Language
+
+In this course, you’ll begin learning Swift, Apple's programming language for building iOS applications. 
+
+You'll start with fundamentals and work your way towards understanding all the core principles necessary to get started creating your first app. 
+
+At the end of the course, you'll complete a problem set of exercises designed to challenge your understanding of Swift and give you the opportunity to apply what you've learned.
+
 
 
 
