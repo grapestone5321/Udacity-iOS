@@ -1,10 +1,32 @@
 # Udacity-iOS
 Udacity-iOS
 
+## Udacity
+
+### 1. iOS Interview Prep
+
+### 2. Xcode Debugging
+
+### 3. iOS Networking with Swift
+
+### 4. iOS Persistence and Core Data
+
+### 5. How to Make an iOS App
+
+### 6. Core ML: Machine Learning for iOS
+
+### 7. Intro to iOS App Development with Swift
+
+### 8. Mobile Design and Usability for iOS
+
+### 9. Objective-C for Swift Developers
+
+
+
 -------
 
 
-## iOS Interview Prep
+## 1. iOS Interview Prep
 
 This course is an excellent way to prepare for technical interviews. 
 
@@ -19,7 +41,7 @@ Senior mobile developers will share their tips for addressing common data issues
 
 -------
 
-## Xcode Debugging
+## 2. Xcode Debugging
 
        "If debugging is the process of removing bugs, then programming must be the process of putting them in."
        Edsger W. Dijkstra
@@ -32,7 +54,7 @@ This course will teach you a variety of techniques to help make debugging your c
 
 -------
 
-## iOS Networking with Swift
+## 3. iOS Networking with Swift
 
 
 In this course, you’ll learn how to incorporate networking into your apps, so they can access data from around the world. 
@@ -42,7 +64,7 @@ You’ll learn how to harness the power of APIs to display images and retrieve m
 
 -------
 
-## iOS Persistence and Core Data
+## 4. iOS Persistence and Core Data
 
 Persisting data is a core skill for any iOS developer. 
 
@@ -52,7 +74,7 @@ NSUserPreferences for small amounts of data, the Sandbox for files and Core Data
 
 -------
 
-## How to Make an iOS App
+## 5. How to Make an iOS App
 
 Do you have some experience building apps for the iPhone or iPad and want to build an app from the ground up, but don't know where to begin? 
 
@@ -61,7 +83,7 @@ Look no further! In this course, you'll learn the process of building an iOS app
 
 -------
 
-## Core ML: Machine Learning for iOS
+## 6. Core ML: Machine Learning for iOS
 
 In this short course, we'll show you how to incorporate Apple's Core ML framework into your app. 
 
@@ -72,7 +94,7 @@ You'll also get a quick overview of machine learning fundamentals, and exposure 
 
 -------
 
-## Intro to iOS App Development with Swift
+## 7. Intro to iOS App Development with Swift
 
 In this course we will build an iPhone app that records a conversation between you and a friend, and then makes your voices sound like a Chipmunk or Darth Vader.
 
@@ -82,7 +104,7 @@ This course will introduce you to iOS app development in Swift, a new programmin
 -------
 
 
-## Mobile Design and Usability for iOS
+## 8. Mobile Design and Usability for iOS
 
 Featuring Facebook's experts in User Research and Product Design, this course walks you through the steps to design a new mobile product that puts users first. 
 
@@ -93,7 +115,7 @@ This course is also available for Android.
 
 -------
 
-## Objective-C for Swift Developers
+## 9. Objective-C for Swift Developers
 
 This course is designed to teach students how to understand and identify the differences between the Objective-C and Swift programming languages, and especially, how to rewrite from the former to the latter. 
 
